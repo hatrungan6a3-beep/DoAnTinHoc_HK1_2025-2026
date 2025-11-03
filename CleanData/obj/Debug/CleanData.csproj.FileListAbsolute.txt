@@ -1,0 +1,9 @@
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\obj\Debug\CleanData.csproj.AssemblyReference.cache
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\obj\Debug\CleanData.Properties.Resources.resources
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\obj\Debug\CleanData.csproj.GenerateResource.cache
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\obj\Debug\CleanData.csproj.CoreCompileInputs.cache
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\bin\Debug\CleanData.exe.config
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\bin\Debug\CleanData.exe
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\bin\Debug\CleanData.pdb
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\obj\Debug\CleanData.exe
+C:\Users\CEGROUP\source\repos\CleanData\CleanData\obj\Debug\CleanData.pdb
